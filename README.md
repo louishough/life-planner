@@ -2,7 +2,7 @@
 Application to assist in various aspects of life planning - will include Daily, Weekly and Monthly sections as well as some other assistative sections.
 
 # Tech Stack
-- JS
+- JS / React
 - Node
 - Mongo
 
